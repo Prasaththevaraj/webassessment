@@ -1,0 +1,23 @@
+.imgstyle {
+    width: 14rem;
+    height: 16rem;  
+}
+.copyright {
+    text-align: center;
+}
+
+
+.navbar-brand {
+    text-decoration: aqua;
+    text-shadow: bisque;
+}
+
+h1 {
+    text-align: center; 
+    color: cornflowerblue;
+    margin-top: 155px;
+    margin-bottom: 25px;
+
+    .address {
+        margin-top: 20px;
+    }
